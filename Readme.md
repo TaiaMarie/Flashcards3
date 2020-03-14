@@ -1,20 +1,13 @@
-Flashcards1
-\
-## Lab 1
+## Lab 3
 
 ### App Description
-Front label ask a question and when it is tapped the answer is revealed
+Keeps track of flashcards
 
 ### App Walk-though
-
-
-https://i.imgur.com/OjNBnMk.gif
-
+<img src="https://i.imgur.com/7aLWCGR.gif" width=200><br>
 
 
 ## Required
-- [x] Create New Project in Xcode
-- [x] Add a view for the front side of the flashcard to display the question
-- [x] Add a view for the back side of the flashcard to display the answer
-- [x] Build in logic to show the answer side when the card is tapped
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
 - [x] Push code to GitHub
